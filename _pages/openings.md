@@ -8,8 +8,6 @@ permalink: /vacancies
 
 # Open positions
 
-We are always looking for new group members with passion, talent, and grit!
-
 ### Applications for PhD positions
 
 We currently have no funding to take on new PhD students in the BorgLab, but to work with any of my robotics colleagues, you have at least three options:
