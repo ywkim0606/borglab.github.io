@@ -8,3 +8,11 @@
   education2: M.Sc. in ECE, Case Western reserve University, 1995
   education3: EE, KU Leuven, 1989
   
+- name: John Lambert
+  photo: JohnL.jpg
+  info: PhD Student, started Aug 2018
+  email: johnlambert@gatech.edu
+  url: https://johnwlambert.github.io/
+  number_educ: 2
+  education1: M.S. in CS, Stanford University, 2018
+  education2: B.S. in CS, Stanford University, 2018
