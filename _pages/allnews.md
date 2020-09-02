@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Borglab at Georgia Tech University."
+excerpt: "Borglab at Georgia Tech."
 sitemap: false
 permalink: /allnews.html
 ---
