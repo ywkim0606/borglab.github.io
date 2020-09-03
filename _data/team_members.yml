@@ -24,6 +24,14 @@
   number_educ: 1
   education1: B.S.E. in ECE + ME, Duke University, 2019
 
+- name: Alejandro Escontrela
+  photo: Alejandro.jpg
+  info: B.S. student, started Aug 2017
+  email: aescontrela@gatech.edu
+  url: https://escontrela.com
+  number_educ: 1
+  education1: B.S. Aerospace Engineering, Georgia Institute of Technology, in progress
+
 - name: John Lambert
   photo: JohnL.jpg
   info: PhD Student, started Aug 2018
@@ -33,6 +41,15 @@
   education1: M.S. in CS, Stanford University, 2018
   education2: B.S. in CS, Stanford University, 2018
 
+- name: Carter Price
+  photo: Carter.jpg
+  info: Ph.D student, started Aug 2018
+  email: carterprice2@gmail.com
+  url: https://carterprice2.github.io/
+  number_educ: 3
+  education1: M.S. Computer Science, Georgia Institute of Technology, 2020
+  education2: B.S. Mechanical Engineering, California Polytechnic State University, 2016
+  
 - name: Mandy Xie
   photo: Mandy.jpg
   info: Ph.D. student, Computer Science, Georgia Institute of Technology, started Aug 2018
@@ -52,10 +69,3 @@
   education2: B.S. Mechanical Engineering, Shanghai Jiao Tong University, 2018
   education3: Ph.D. Computer Science, Georgia Institute of Technology, in progress
   
-- name: Alejandro Escontrela
-  photo: Alejandro.jpg
-  info: B.S. student, started Aug 2017
-  email: aescontrela@gatech.edu
-  url: https://escontrela.com
-  number_educ: 1
-  education1: B.S. Aerospace Engineering, Georgia Institute of Technology, in progress
