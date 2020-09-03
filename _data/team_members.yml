@@ -33,6 +33,15 @@
   education1: M.S. in CS, Stanford University, 2018
   education2: B.S. in CS, Stanford University, 2018
 
+- name: Carter Price
+  photo: Carter.jpg
+  info: Ph.D student, started Aug 2018
+  email: carterprice2@gmail.com
+  url: https://carterprice2.github.io/
+  number_educ: 3
+  education1: M.S. Computer Science, Georgia Institute of Technology, 2020
+  education2: B.S. Mechanical Engineering, California Polytechnic State University, 2016
+  
 - name: Mandy Xie
   photo: Mandy.jpg
   info: Ph.D. student, Computer Science, Georgia Institute of Technology, started Aug 2018
@@ -51,3 +60,6 @@
   education1: B.S. Computer Engineering, University of Michigan, 2018
   education2: B.S. Mechanical Engineering, Shanghai Jiao Tong University, 2018
   education3: Ph.D. Computer Science, Georgia Institute of Technology, in progress
+  
+  
+  
