@@ -32,6 +32,14 @@
   number_educ: 1
   education1: B.S. Aerospace Engineering, Georgia Institute of Technology, in progress
 
+- name: Fan Jiang
+  photo: Fan.jpg
+  info: PhD Student, started Sep 2019
+  email: fan.jiang@gatech.edu
+  url: https://fanjiang.me/
+  number_educ: 1
+  education1: B.E. in BME, Southern University of Science and Technology (SUSTech), 2017
+  
 - name: John Lambert
   photo: JohnL.jpg
   info: PhD Student, started Aug 2018
