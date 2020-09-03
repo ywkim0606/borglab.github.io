@@ -24,6 +24,15 @@
   number_educ: 1
   education1: B.S.E. in ECE + ME, Duke University, 2019
 
+- name: John Lambert
+  photo: JohnL.jpg
+  info: PhD Student, started Aug 2018
+  email: johnlambert@gatech.edu
+  url: https://johnwlambert.github.io/
+  number_educ: 2
+  education1: M.S. in CS, Stanford University, 2018
+  education2: B.S. in CS, Stanford University, 2018
+
 - name: Mandy Xie
   photo: Mandy.jpg
   info: Ph.D. student, Computer Science, Georgia Institute of Technology, started Aug 2018
